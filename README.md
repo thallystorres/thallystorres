@@ -1,33 +1,44 @@
 # Hi there, I'm Thallys Torres 👋
 
-Welcome to my GitHub profile! 🚀 I'm a passionate software developer who thrives on crafting scalable, efficient, and impactful applications. Whether it's optimizing performance, exploring new technologies, or building innovative solutions, I'm always eager to push the boundaries of what's possible! 💡💻
+I'm a software developer with experience as a Prompt Engineer at Outlier AI Inc. and one year of studies in Information Technology at UFRN. My focus is on developing efficient and scalable solutions, leveraging AI, full-stack development, and optimizing performance across various technologies.
 
 ## 🚀 About Me
 - 🎓 **Education**: Pursuing a Bachelor's degree in Information Technology (IT) at UFRN
-- 💻 **Technologies**: 
-  - **Languages**: JavaScript, Python, C
-  - **Frameworks**: React, Node.js
-  - **Databases**: MySQL, MongoDB
-  - **Tools**: Git, GitHub, AirFlow, Postman
-- 🌱 **Currently Learning**: HTML5, CSS3 and React
+- 🌱 **Currently Learning**: React, Django
 - 💼 **Work Experience**: 
-  - **Outlier Inc.**: Prompt Engineer (2024 - Present)
+  - **Outlier AI Inc.**: Prompt Engineer (2024 - Present)
 - 💡 **Interests**: Open source contributions, Full Stack, AI
-
-## 📈 GitHub Stats
-![Thallys's GitHub stats](https://github-readme-stats.vercel.app/api?username=thallystorres&show_icons=true&theme=radical)
-
-## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/thallys-torres-de-souza)
 
 ## 🌟 Featured Repositories
 - [Barcode EAN-8](https://github.com/thallystorres/ITP-barcode): Implementation of EAN-8 barcode in C.
 - [Text Analyzer](https://github.com/thallystorres/text-analyzer): Word counter in `.txt` with node.js.
 
+## 📊 Github Stats
+<div>
+<a href="htpps://github.com/thallystorres">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallystorres&theme=dracula&layout=compact">
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=thallystorres&show_icons=true&theme=dracula&layout=compact">
+</a>
+</div>
 
-Feel free to reach out if you'd like to collaborate on a project or just want to chat about tech!
+## 🛠️ Tech Stack
+<div>
+  <img align="center" alt="js" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="node" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="react" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img align="center" alt="html5" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img align="center" alt="css3" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="center" alt="python" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+  <img align="center" alt="django" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
+  <img align="center" alt="C" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="MySQL" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="MongoDB" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="AirFlow" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original-wordmark.svg">
+  <img align="center" alt="Postman" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg">
+  <img align="center" alt="git" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  <img align="center" alt="vscode" height="60" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+</div>
 
-Thanks for stopping by! 😄
 <hr>
 
 > "Talk is cheap. Show me the code!" — Linus Torvalds
