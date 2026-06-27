@@ -8,7 +8,7 @@
 - 🐧 **Linux** nerd
 - 🌱 Currently learning **TypeScript** and **NextJS**
 <div>
-  <a href="https://github.com/ctrindadedev">
+  <a href="https://github.com/thallystorres">
       <img height="180em" align="center" src="https://github-readme-stats-seven-green-97.vercel.app/api/top-langs/?username=thallystorres&theme=tokyonight&layout=compact"/>
       <img height="180em" align="center" src="https://github-readme-stats-seven-green-97.vercel.app/api?username=thallystorres&show_icons=true&theme=tokyonight&layout=compact"/>
   </a>
